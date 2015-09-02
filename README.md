@@ -1,3 +1,10 @@
+
+
+http://jocr.sourceforge.net/index.html
+
+http://antimatter15.com/gocr.js/demo.html
+
+
 			 GOCR (JOCR at SF.net)
 
 GOCR is an optical character recognition program, released under the
